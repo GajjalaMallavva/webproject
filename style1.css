@@ -1,0 +1,15 @@
+body{
+    
+    background-color:rgb(183, 175, 181);
+}
+.mapdiv{
+    width:28%;
+    margin:auto;
+}
+.mapdiv path{
+    fill:#e6f16d;
+    stroke:#08060a;
+    stroke-width: 0.5px;
+}
+
+
